@@ -227,7 +227,9 @@ svg {
     color: #F4F4FD;
     padding: 12px;
     overflow: visible;
+    fill:#f4f4fd;
 }
+
 .icon {
     display: flex;
     border-radius: 4px 0px 0px 0px;
